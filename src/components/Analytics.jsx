@@ -93,7 +93,7 @@ export default function Analytics() {
                 <YAxis tickLine={false} axisLine={false} tickFormatter={(val) => `₹${val}`} tick={{ fontSize: 12, fill: '#4b5563' }} />
                 <Tooltip formatter={(value) => `₹${value.toLocaleString()}`} cursor={{fill: 'transparent'}} contentStyle={{ borderRadius: '12px', border: 'none' }} />
                 <Legend iconType="circle" wrapperStyle={{ fontSize: '13px', paddingTop: '10px' }} />
-                <Bar dataKey="Budget" fill="#e5e7eb" radius={[4, 4, 0, 0]} className="dark:fill-gray-700" maxBarSize={40} />
+                <Bar dataKey="Budget" fill="#576A8F" radius={[4, 4, 0, 0]} className="dark:fill-gray-700" maxBarSize={40} />
                 <Bar dataKey="Actual" fill="#9da2fa" radius={[4, 4, 0, 0]} maxBarSize={40} />
               </BarChart>
             </ResponsiveContainer>
