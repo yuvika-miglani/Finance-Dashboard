@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Amit Patel",
+      "amount": 250.00,
+      "type": "Expense",
+      "date": "2026-04-01",
+      "category": "Food & Drink"
+    },
+    {
+      "id": "2",
+      "description": "Priya Sharma",
+      "amount": 345.50,
+      "type": "Expense",
+      "date": "2026-04-01",
+      "category": "Food & Drink"
+    },
+    {
+      "id": "3",
+      "description": "Vikram Singh",
+      "amount": 85.00,
+      "type": "Expense",
+      "date": "2026-04-01",
+      "category": "Transit"
+    },
+    {
+      "id": "4",
+      "description": "Simran Kaur",
+      "amount": 199.00,
+      "type": "Expense",
+      "date": "2026-04-02",
+      "category": "Subscriptions"
+    },
+    {
+      "id": "5",
+      "description": "Rahul Verma",
+      "amount": 1250.30,
+      "type": "Expense",
+      "date": "2026-04-02",
+      "category": "Groceries"
+    },
+    {
+      "id": "6",
+      "description": "Neha Gupta",
+      "amount": 500.00,
+      "type": "Income",
+      "date": "2026-04-02",
+      "category": "Transfer"
+    },
+    {
+      "id": "7",
+      "description": "Karan Malhotra",
+      "amount": 210.00,
+      "type": "Expense",
+      "date": "2026-04-03",
+      "category": "Shopping"
+    },
+    {
+      "id": "8",
+      "description": "Anjali Desai",
+      "amount": 350.00,
+      "type": "Expense",
+      "date": "2026-04-03",
+      "category": "Food & Drink"
+    }
+  ]
+}
