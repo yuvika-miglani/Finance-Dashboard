@@ -38,18 +38,20 @@ Tech Stack
 * Animations: Framer Motion
 
 
+
 ⚙️ Installation & Setup
-Clone the repository:
+
+- Clone the repository:
 
 Bash
 git clone https://github.com/yuvika-miglani/finance-dashboard.git
 
-Install dependencies:
+- Install dependencies:
 
 Bash
 npm install
 
-Start the development server:
+- Start the development server:
 
 Bash
 npm run dev
